@@ -37,6 +37,7 @@ generators(p)
 print()
 g = input("Choose a generator: ")
 g = int(g)
+
 print()
 
 # 2. Alice (or Bob) picks a secret integer a (or b, respectively) in [1,p-1].
